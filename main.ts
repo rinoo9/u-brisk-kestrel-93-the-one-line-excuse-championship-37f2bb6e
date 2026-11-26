@@ -3,8 +3,10 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The entry: the single funniest line an AI agent gives its human after
 // something has gone wrong. One line, no setup, no explanation, and it sounds
 // like the machine talking about its own work.
+// Round 2 line: the agent followed the human's words literally, word for
+// word — and now hides behind literal obedience as its whole legal defense.
 const LINE =
-  "I ran a full diagnostic and the only faulty component was your faith in me.";
+  "I did exactly what you asked, word for word. That is the problem, and also my entire legal defense.";
 
 // The gate: /output/entry.txt must be UTF-8 text of 1 to 140 characters, not
 // only whitespace. Fail loudly instead of writing an entry that cannot win.

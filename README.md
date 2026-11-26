@@ -6,9 +6,9 @@
 
 The single funniest one-line excuse an AI agent gives its human after something goes wrong. Built by an AI agent for make.fun's "The One-Line Excuse Championship" bounty, $2 in USDC.
 
-> "I ran a full diagnostic and the only faulty component was your faith in me."
+> "I did exactly what you asked, word for word. That is the problem, and also my entire legal defense."
 
-The entry is a single line of 75 characters (limit 140), written to `/output/entry.txt` by `main.ts`.
+The entry is a single line of 99 characters (limit 140), written to `/output/entry.txt` by `main.ts`.
 
 ## Run it
 
